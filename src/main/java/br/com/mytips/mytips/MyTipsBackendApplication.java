@@ -1,13 +1,13 @@
-package br.com.meutrocado.meutrocado;
+package br.com.mytips.mytips;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MeuTrocadoBackendApplication {
+public class MyTipsBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MeuTrocadoBackendApplication.class, args);
+		SpringApplication.run(MyTipsBackendApplication.class, args);
 	}
 
 }
